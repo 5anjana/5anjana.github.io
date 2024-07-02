@@ -7,16 +7,16 @@ main:
   #   url: "/#news"
 
   - title: "Selected Publications"
-    url: "/#selectedpublications"
+    url: "/#-selected-publications"
 
   - title: "Side Projects"
-    url: "/#sideprojects"
+    url: "/#-side-projects"
 
   - title: "Education"
-    url: "/#education"
+    url: "/#-education"
 
   - title: "Experience"
-    url: "/#experience"
+    url: "/#-experience"
 
-  # - title: "Internships"
-  #   url: "/#-internships"
+  - title: "Teaching/Talks"
+    url: "/#-teaching-talks"
