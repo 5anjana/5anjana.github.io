@@ -38,7 +38,7 @@ My research areas include (1) vision-language alignment and representation learn
 
 > **Estimating and Maximizing Mutual Information for Knowledge Distillation** <br>
 > **Aman Shrivastava**, Yanjun Qi, and Vicente Ordonez. <br>
-> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. **CVPR TCV Workshop 2023** <br>
+> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. **CVPR TCV Workshop 2023** <br>
 > [paper](https://arxiv.org/pdf/2110.15946.pdf) | [code](https://github.com/4m4n5/MIMKD)
 
 
