@@ -19,7 +19,7 @@ redirect_from:
 
 I am a **Computer Science PhD Candidate** at the **University of Virginia** advised by [Prof. Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) and [Prof. Vicente Ordóñez Román](http://vicenteordonez.com/). During my PhD, I interned at **Adobe Reserach** where I worked with [Kushal Kafle](https://kushalkafle.com/) on bootstrapping large language and vision models to design VLMs via instruction-tuning. I also interned with **Salesforce Research** where I worked with [Nikhil Naik](https://web.mit.edu/naik/www/) and [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/) on vision-language alignment and retrieval and conditional & controllable image generation using diffusion models. Previously, I worked as a Reserach Scientist with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) where I developed AI methods for disease understanding and diagnosis. I also hold a **Masters in Data Science** from the **University of Virginia** and a **Bachelors in Technology** from the **Indian Institute of Technology, Roorkee**. 
 
-My research areas include (1) vision-language alignment and representation learning, (2) conditional and controllable image and text generation, (3) foundation language and vision models, as well as (4) their applications for disease understanding and addressing challenges in computational medical imaging. Find my [CV here](). 
+My research areas include (1) vision-language alignment and representation learning, (2) conditional and controllable image and text generation, (3) foundation language and vision models, as well as (4) their applications for disease understanding and addressing challenges in computational medical imaging. Find my [CV here](https://4m4n5.github.io/assets/CV_v7.4.pdf). 
 
 
 # 📝 Selected Publications 
@@ -89,9 +89,9 @@ My research areas include (1) vision-language alignment and representation learn
 
 
 # 📖 Education
-- **2020 - present:** Computer Science PhD | University of Virginia 
-- **2018 - 2019:** Masters in Data Science | University of Virginia
-- **2013 - 2017:** Bachelors in Technology | Indian Institute of Technology, Roorkee 
+- **2020 - present:** Computer Science PhD &#124; University of Virginia 
+- **2018 - 2019:** Masters in Data Science &#124; University of Virginia
+- **2013 - 2017:** Bachelors in Technology &#124; Indian Institute of Technology, Roorkee 
 
 # 💻 Experience
 - **Research Scientist Intern** at Adobe Research | June - November, 2023 <br>
@@ -108,16 +108,16 @@ My research areas include (1) vision-language alignment and representation learn
 
 # 👨‍🏫 Teaching / Talks
 - 2023
-  - **Co-instructor** for Geometry of Data | University of Virginia | [lecture videos](https://www.youtube.com/watch?v=tzu-Gl3N614&list=PL9f1MuX_YDqdNg2gsAMGWDTEr5IuEAJb-)
+  - **Co-instructor** for Geometry of Data &#124; University of Virginia &#124; [lecture videos](https://www.youtube.com/watch?v=tzu-Gl3N614&list=PL9f1MuX_YDqdNg2gsAMGWDTEr5IuEAJb-)
   - **Oral Presentation** at MICCAI 2023
-  - **Invited Speaker** for Research Speaker Series | PathAI
-  - **Teaching Assistant** for Digital Signal Processing | University of Virginia
-  - **Teaching Assistant** for Digital Signal Processing | University of Virginia
+  - **Invited Speaker** for Research Speaker Series &#124; PathAI
+  - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
+  - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
 - 2022
-  - **Teaching Assistant** for Geometry of Data | University of Virginia
-  - **Teaching Assistant** for Machine Learning | University of Virginia
-  - **Python Instructor** for SOAR Scholars Program | University of Virginia
+  - **Teaching Assistant** for Geometry of Data &#124; University of Virginia
+  - **Teaching Assistant** for Machine Learning &#124; University of Virginia
+  - **Python Instructor** for SOAR Scholars Program &#124; University of Virginia
 - 2019
-  - **Python Instructor** for Health Sciences Library | University of Virginia
-  - **Assistant Capstone Advisor** for School of Data Science | University of Virginia
-  - **Invited Speaker** for Applied Machine Learning Conference | Tom Tom Festival 
+  - **Python Instructor** for Health Sciences Library &#124; University of Virginia
+  - **Assistant Capstone Advisor** for School of Data Science &#124; University of Virginia
+  - **Invited Speaker** for Applied Machine Learning Conference &#124; Tom Tom Festival 
