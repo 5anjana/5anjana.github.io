@@ -19,9 +19,7 @@ redirect_from:
 
 I am a **Computer Science PhD Candidate** at the **University of Virginia** advised by [Prof. Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) and [Prof. Vicente Ordóñez Román](http://vicenteordonez.com/). During my PhD, I interned at **Adobe Reserach** where I worked with [Kushal Kafle](https://kushalkafle.com/) on bootstrapping large language and vision models to design VLMs via instruction-tuning. I also interned with **Salesforce Research** where I worked with [Nikhil Naik](https://web.mit.edu/naik/www/) and [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/) on vision-language alignment and retrieval and conditional & controllable image generation using diffusion models. Previously, I worked as a Reserach Scientist with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) where I developed AI methods for disease understanding and diagnosis. I also hold a **Masters in Data Science** from the **University of Virginia** and a **Bachelors in Technology** from the **Indian Institute of Technology, Roorkee**. 
 
-My research areas include (1) vision-language alignment and representation learning, (2) conditional and controllable image and text generation, (3) foundation language and vision models, as well as (4) their applications for disease understanding and addressing challenges in computational medical imaging.
-
-[Email](mailto:as3ek@virginia.edu) | [CV](path/to/your-cv.pdf) | [Google Scholar](https://scholar.google.com/citations?user=8JKUMc8AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/amanshrivastava9/)
+My research areas include (1) vision-language alignment and representation learning, (2) conditional and controllable image and text generation, (3) foundation language and vision models, as well as (4) their applications for disease understanding and addressing challenges in computational medical imaging. Find my [CV here](). 
 
 
 # 📝 Selected Publications 
@@ -96,30 +94,30 @@ My research areas include (1) vision-language alignment and representation learn
 - **2013 - 2017:** Bachelors in Technology | Indian Institute of Technology, Roorkee 
 
 # 💻 Experience
-- **Research Scientist Intern** | Adobe Research | June - November, 2023 <br>
+- **Research Scientist Intern** at Adobe Research | June - November, 2023 <br>
   Worked on designing an AI assistant for visual reasoning via bootstrapping pretrained foundation models.
 
-- **Research Scientist Intern** | Salesforce Research | June - November, 2022 <br>
+- **Research Scientist Intern** at Salesforce Research | June - November, 2022 <br>
   Worked on conditional generative diffusion models for image synthesis and vision-language alignment.
 
-- **Research Scientist** | University of Virginia | June 2019 - June 2020 <br>
+- **Research Scientist** at University of Virginia | June 2019 - June 2020 <br>
   Developed learning frameworks for the understanding and assisted diagnosis of gastrointestinal diseases.
 
-- **Analyst** | Citibank | June 2018 - June 2019 <br>
+- **Analyst** at Citibank | June 2018 - June 2019 <br>
   Built a streamlined visualization platform with data-driven insights for the Chief Country Officer. However, would not recommend.
 
 # 👨‍🏫 Teaching / Talks
 - 2023
-  - **Co-instructor** | Geometry of Data | University of Virginia | [lecture videos](https://www.youtube.com/watch?v=tzu-Gl3N614&list=PL9f1MuX_YDqdNg2gsAMGWDTEr5IuEAJb-)
-  - **Oral Presentation** | MICCAI 2023
-  - **Invited Speaker** | Research Speaker Series | PathAI
-  - **Teaching Assistant** | Digital Signal Processing | University of Virginia
-  - **Teaching Assistant** | Digital Signal Processing | University of Virginia
+  - **Co-instructor** for Geometry of Data | University of Virginia | [lecture videos](https://www.youtube.com/watch?v=tzu-Gl3N614&list=PL9f1MuX_YDqdNg2gsAMGWDTEr5IuEAJb-)
+  - **Oral Presentation** at MICCAI 2023
+  - **Invited Speaker** for Research Speaker Series | PathAI
+  - **Teaching Assistant** for Digital Signal Processing | University of Virginia
+  - **Teaching Assistant** for Digital Signal Processing | University of Virginia
 - 2022
-  - **Teaching Assistant** | Geometry of Data | University of Virginia
-  - **Teaching Assistant** | Machine Learning | University of Virginia
-  - Python Instructor | SOAR Scholars Program | University of Virginia
+  - **Teaching Assistant** for Geometry of Data | University of Virginia
+  - **Teaching Assistant** for Machine Learning | University of Virginia
+  - **Python Instructor** for SOAR Scholars Program | University of Virginia
 - 2019
-  - **Python Instructor** | Health Sciences Library | University of Virginia
-  - **Assistant Capstone Advisor** | School of Data Science | University of Virginia
-  - **Invited Speaker** | Applied Machine Learning Conference | Tom Tom Festival 
+  - **Python Instructor** for Health Sciences Library | University of Virginia
+  - **Assistant Capstone Advisor** for School of Data Science | University of Virginia
+  - **Invited Speaker** for Applied Machine Learning Conference | Tom Tom Festival 
