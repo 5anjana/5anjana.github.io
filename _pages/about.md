@@ -17,42 +17,109 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a **Computer Science PhD Candidate** at the **University of Virginia** advised by [Prof. Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) and [Prof. Vicente Ordóñez Román](http://vicenteordonez.com/). During my PhD, I interned at **Adobe Reserach** where I worked with [Kushal Kafle](https://kushalkafle.com/) on bootstrapping large language and vision models to design VLMs via instruction-tuning. I also interned with **Salesforce Research** where I worked with [Nikhil Naik](https://web.mit.edu/naik/www/) and [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/) on vision-language alignment and retrieval and conditional & controllable image generation using diffusion models. Previously, I worked as a Reserach Scientist with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) where I developed AI methods for disease understanding and diagnosis. I also hold a **Masters in Data Science** from the **University of Virginia** and a **Bachelors in Technology** from the **Indian Institute of Technology, Roorkee**. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research areas include (1) vision-language alignment and representation learning, (2) conditional and controllable image and text generation, (3) foundation language and vision models, as well as (4) their applications for disease understanding and addressing challenges in computational medical imaging.
+
+[Email](mailto:as3ek@virginia.edu) | [CV](path/to/your-cv.pdf) | [Google Scholar](https://scholar.google.com/citations?user=8JKUMc8AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/amanshrivastava9/)
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📝 Selected Publications 
 
-# 📝 Publications 
+> **NASDM, Nuclei-Aware Semantic Histopathology Image Generation Using Diffusion Models** <br>
+> **Aman Shrivastava** and P. Thomas Fletcher <br>
+> In International Conference on Medical Image Computing and Computer-Assisted Intervention. **MICCAI 2023 (Oral)** <br>
+> [paper](https://arxiv.org/pdf/2303.11477.pdf) | [code](https://github.com/4m4n5/NASDM)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+> **CLIP-Lite, Information Efficient Visual Representation Learning from Textual Annotations** <br>
+> **Aman Shrivastava**, Ramprasaath R. Selvaraju, Nikhil Naik, and Vicente Ordonez. <br>
+> In International Conference on Artificial Intelligence and Statistics, PMLR. **AISTATS 2023 (Oral)** <br>
+> [paper](https://arxiv.org/pdf/2112.07133.pdf) | [code](https://github.com/4m4n5/CLIP-Lite)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+> **Estimating and Maximizing Mutual Information for Knowledge Distillation** <br>
+> **Aman Shrivastava**, Yanjun Qi, and Vicente Ordonez. <br>
+> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. **CVPR 2023** <br>
+> [paper](https://arxiv.org/pdf/2110.15946.pdf) | [code](https://github.com/4m4n5/MIMKD)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+> **Improving interpretability via explicit word interaction graph layer** <br>
+> Arshdeep Sekhon, Hanjie Chen, **Aman Shrivastava**, Zhe Wang, Yangfeng Ji, and Yanjun Qi. <br>
+> In Proceedings of the AAAI Conference on Artificial Intelligence. **AAAI 2023** <br>
+> [paper](https://arxiv.org/pdf/2302.02016.pdf) | [code](https://github.com/QData/WIGRAPH)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+> **Identifying metabolic shifts in Crohn's disease using'omics-driven contextualized computational metabolic network models** <br>
+> Philip Fernandes, Yash Sharma, Fatima Zulqarnain, Brooklyn McGrew, **Aman Shrivastava**, Lubaina Ehsan, Dawson Payne et al. <br>
+> In **Nature Scientific Reports 2023**. <br>
+> [paper](https://www.nature.com/articles/s41598-022-26816-5.pdf)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+> **Self-attentive adversarial stain normalization** <br>
+> **Aman Shrivastava**, William Adorno, Yash Sharma, Lubaina Ehsan, S. Asad Ali, Sean R. Moore, Beatrice Amadi, Paul Kelly, Sana Syed, and Donald E. Brown. <br>
+> In International Conference on Pattern Recognition, Springer. **ICPR 2021 (Oral)** <br>
+> [paper](https://arxiv.org/pdf/1909.01963.pdf) | [code](https://github.com/4m4n5/saasn-stain-normalization)
+
+
+> **Cluster-to-Conquer, A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification** <br>
+> Yash Sharma, **Aman Shrivastava**, Lubaina Ehsan, Christopher A. Moskaluk, Sana Syed, and Donald E. Brown. <br>
+> In Medical Imaging with Deep Learning, PMLR. **MIDL 2021** <br>
+> [paper](https://arxiv.org/pdf/2103.10626.pdf) | [code](https://github.com/YashSharma/C2C)
+
+
+> **Cluster-to-Conquer, A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification** <br>
+> **Aman Shrivastava**, Karan Kant, Saurav Sengupta, Sung-Jun Kang, Marium Khan, S. Asad Ali, Sean R. Moore et al. <br>
+> In IEEE EMBS International Conference on Biomedical & Health Informatics (BHI). **BHI 2019** <br>
+> [paper](https://arxiv.org/pdf/1908.03272.pdf) 
+
+
+# 📂 Side Projects
+> **Krity** <br>
+> Co-founded an open audiobook platform that allows listeners to find audiobooks in diverse voices, and narrators to give voices to their favorite books. Have produced and published over 40 audiobooks. <br>
+> [website](https://krity.app/)
+
+
+> **Connect 4 AI** <br>
+> Developed a lightweight connect-4 game with a self-written pure-javascript bot using Minimax algorithm and Monte Carlo simulations. <br>
+> [website](https://sahlamba.github.io/connect4/) | [code](https://github.com/sahlamba/connect4)
+
+
+> **Soccer Squad Optimization** <br>
+> Designed a strategic football squad selection algorithm given budget, nationality (and/or club) and playing formation constraints based on self extracted FIFA dataset. Longstanding featured dataset on Kaggle.<br>
+> [code](https://github.com/4m4n5/fifa18-stats-analysis) | [dataset](https://www.kaggle.com/datasets/thec03u5/fifa-18-demo-player-dataset)
+
+
+# 📖 Education
+- **2020 - present:** Computer Science PhD | University of Virginia 
+- **2018 - 2019:** Masters in Data Science | University of Virginia
+- **2013 - 2017:** Bachelors in Technology | Indian Institute of Technology, Roorkee 
+
+# 💻 Experience
+- **Research Scientist Intern** | Adobe Research | June - November, 2023 <br>
+  Worked on designing an AI assistant for visual reasoning via bootstrapping pretrained foundation models.
+
+- **Research Scientist Intern** | Salesforce Research | June - November, 2022 <br>
+  Worked on conditional generative diffusion models for image synthesis and vision-language alignment.
+
+- **Research Scientist** | University of Virginia | June 2019 - June 2020 <br>
+  Developed learning frameworks for the understanding and assisted diagnosis of gastrointestinal diseases.
+
+- **Analyst** | Citibank | June 2018 - June 2019 <br>
+  Built a streamlined visualization platform with data-driven insights for the Chief Country Officer. However, would not recommend.
+
+# 👨‍🏫 Teaching / Talks
+- 2023
+  - **Co-instructor** | Geometry of Data | University of Virginia | [lecture videos](https://www.youtube.com/watch?v=tzu-Gl3N614&list=PL9f1MuX_YDqdNg2gsAMGWDTEr5IuEAJb-)
+  - **Oral Presentation** | MICCAI 2023
+  - **Invited Speaker** | Research Speaker Series | PathAI
+  - **Teaching Assistant** | Digital Signal Processing | University of Virginia
+  - **Teaching Assistant** | Digital Signal Processing | University of Virginia
+- 2022
+  - **Teaching Assistant** | Geometry of Data | University of Virginia
+  - **Teaching Assistant** | Machine Learning | University of Virginia
+  - Python Instructor | SOAR Scholars Program | University of Virginia
+- 2019
+  - **Python Instructor** | Health Sciences Library | University of Virginia
+  - **Assistant Capstone Advisor** | School of Data Science | University of Virginia
+  - **Invited Speaker** | Applied Machine Learning Conference | Tom Tom Festival 
