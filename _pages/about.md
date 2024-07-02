@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **Computer Science PhD Candidate** at the **University of Virginia** advised by [Prof. Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) and [Prof. Vicente Ordóñez Román](http://vicenteordonez.com/). During my PhD, I interned at **Adobe Reserach** where I worked with [Kushal Kafle](https://kushalkafle.com/) on bootstrapping large language and vision models to design VLMs via instruction-tuning. I also interned with **Salesforce Research** where I worked with [Nikhil Naik](https://web.mit.edu/naik/www/) and [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/) on vision-language alignment and retrieval and conditional & controllable image generation using diffusion models. Previously, I worked as a Reserach Scientist with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) where I developed AI methods for disease understanding and diagnosis. I also hold a **Masters in Data Science** from the **University of Virginia** and a **Bachelors in Technology** from the **Indian Institute of Technology, Roorkee**. 
+I am a **Computer Science PhD Candidate** at the **University of Virginia** advised by [Prof. Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) and previously by [Prof. Vicente Ordóñez Román](http://vicenteordonez.com/). During my PhD, I interned at **Adobe Reserach** where I worked with [Kushal Kafle](https://kushalkafle.com/) on bootstrapping large language and vision models to design VLMs via instruction-tuning. I also interned with **Salesforce Research** where I worked with [Nikhil Naik](https://web.mit.edu/naik/www/) and [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/) on vision-language alignment and retrieval and conditional & controllable image generation using diffusion models. Previously, I worked as a Reserach Scientist with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) where I developed AI methods for disease understanding and diagnosis. I also hold a **Masters in Data Science** from the **University of Virginia** and a **Bachelors in Technology** from the **Indian Institute of Technology, Roorkee**. 
 
 My research areas include (1) vision-language alignment and representation learning, (2) conditional and controllable image and text generation, (3) foundation language and vision models, as well as (4) their applications for disease understanding and addressing challenges in computational medical imaging. Find my [CV here](https://4m4n5.github.io/assets/CV_v7.4.pdf). 
 
@@ -38,7 +38,7 @@ My research areas include (1) vision-language alignment and representation learn
 
 > **Estimating and Maximizing Mutual Information for Knowledge Distillation** <br>
 > **Aman Shrivastava**, Yanjun Qi, and Vicente Ordonez. <br>
-> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. **CVPR 2023** <br>
+> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. **CVPR TCV Workshop 2023** <br>
 > [paper](https://arxiv.org/pdf/2110.15946.pdf) | [code](https://github.com/4m4n5/MIMKD)
 
 
