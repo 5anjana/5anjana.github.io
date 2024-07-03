@@ -66,7 +66,7 @@ My research areas include (1) vision-language alignment and representation learn
 > [paper](https://arxiv.org/pdf/2103.10626.pdf) | [code](https://github.com/YashSharma/C2C)
 
 
-> **Cluster-to-Conquer, A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification** <br>
+> **Deep learning for visual recognition of environmental enteropathy and celiac disease** <br>
 > **Aman Shrivastava**, Karan Kant, Saurav Sengupta, Sung-Jun Kang, Marium Khan, S. Asad Ali, Sean R. Moore et al. <br>
 > In IEEE EMBS International Conference on Biomedical & Health Informatics (BHI). **BHI 2019** <br>
 > [paper](https://arxiv.org/pdf/1908.03272.pdf) 
