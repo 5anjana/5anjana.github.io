@@ -112,8 +112,8 @@ My research areas include (1) vision-language alignment and representation learn
   - **Oral Presentation** at MICCAI 2023
   - **Invited Speaker** for Research Speaker Series &#124; PathAI
   - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
-  - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
 - 2022
+  - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
   - **Teaching Assistant** for Geometry of Data &#124; University of Virginia
   - **Teaching Assistant** for Machine Learning &#124; University of Virginia
   - **Python Instructor** for SOAR Scholars Program &#124; University of Virginia
