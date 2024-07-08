@@ -82,6 +82,9 @@ My research areas include (1) vision-language alignment and representation learn
 > Developed a lightweight connect-4 game with a self-written pure-javascript bot using Minimax algorithm and Monte Carlo simulations. <br>
 > [website](https://sahlamba.github.io/connect4/) | [code](https://github.com/sahlamba/connect4)
 
+> **Humorous Image Captioning System** <br>
+> Implemented a self-attentive encoder-decoder framework to generate humorous captions for images indistinguishable from human generated memes. <br>
+> [code](https://github.com/4m4n5/dl_humor_generation/tree/master)
 
 > **Soccer Squad Optimization** <br>
 > Designed a strategic football squad selection algorithm given budget, nationality (and/or club) and playing formation constraints based on self extracted FIFA dataset. Longstanding featured dataset on Kaggle.<br>
