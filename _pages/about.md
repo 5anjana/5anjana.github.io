@@ -17,110 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **Computer Science PhD Candidate** at the **University of Virginia** advised by [Prof. Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) and previously by [Prof. Vicente Ordóñez Román](http://vicenteordonez.com/). During my PhD, I interned at **Adobe Reserach** where I worked with [Kushal Kafle](https://kushalkafle.com/) on bootstrapping large language and vision models to design VLMs via instruction-tuning. I also interned with **Salesforce Research** where I worked with [Nikhil Naik](https://web.mit.edu/naik/www/) and [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/) on vision-language alignment & retrieval and conditional & controllable image generation using diffusion models. Previously, I worked as a Reserach Scientist with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) where I developed AI methods for disease understanding and diagnosis. I also hold a **Masters in Data Science** from the **University of Virginia** and a **Bachelors in Technology** from the **Indian Institute of Technology, Roorkee**. 
-
-My research areas include (1) vision-language alignment and representation learning, (2) conditional and controllable image and text generation, (3) foundation language and vision models, as well as (4) their applications for disease understanding and addressing challenges in computational medical imaging. Find my [CV here](https://4m4n5.github.io/assets/CV_v8.0.pdf). 
-
-
-# 📝 Selected Publications 
-
-> **NASDM, Nuclei-Aware Semantic Histopathology Image Generation Using Diffusion Models** <br>
-> **Aman Shrivastava** and P. Thomas Fletcher <br>
-> In International Conference on Medical Image Computing and Computer-Assisted Intervention. **MICCAI 2023 (Oral)** <br>
-> [paper](https://arxiv.org/pdf/2303.11477.pdf) | [code](https://github.com/4m4n5/NASDM)
-
-
-> **CLIP-Lite, Information Efficient Visual Representation Learning from Textual Annotations** <br>
-> **Aman Shrivastava**, Ramprasaath R. Selvaraju, Nikhil Naik, and Vicente Ordonez. <br>
-> In International Conference on Artificial Intelligence and Statistics, PMLR. **AISTATS 2023 (Oral)** <br>
-> [paper](https://arxiv.org/pdf/2112.07133.pdf) | [code](https://github.com/4m4n5/CLIP-Lite)
-
-
-> **Estimating and Maximizing Mutual Information for Knowledge Distillation** <br>
-> **Aman Shrivastava**, Yanjun Qi, and Vicente Ordonez. <br>
-> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. **CVPR TCV Workshop 2023** <br>
-> [paper](https://arxiv.org/pdf/2110.15946.pdf) | [code](https://github.com/4m4n5/MIMKD)
-
-
-> **Improving interpretability via explicit word interaction graph layer** <br>
-> Arshdeep Sekhon, Hanjie Chen, **Aman Shrivastava**, Zhe Wang, Yangfeng Ji, and Yanjun Qi. <br>
-> In Proceedings of the AAAI Conference on Artificial Intelligence. **AAAI 2023** <br>
-> [paper](https://arxiv.org/pdf/2302.02016.pdf) | [code](https://github.com/QData/WIGRAPH)
-
-
-> **Identifying metabolic shifts in Crohn's disease using'omics-driven contextualized computational metabolic network models** <br>
-> Philip Fernandes, Yash Sharma, Fatima Zulqarnain, Brooklyn McGrew, **Aman Shrivastava**, Lubaina Ehsan, Dawson Payne et al. <br>
-> In **Nature Scientific Reports 2023**. <br>
-> [paper](https://www.nature.com/articles/s41598-022-26816-5.pdf)
-
-
-> **Self-attentive adversarial stain normalization** <br>
-> **Aman Shrivastava**, William Adorno, Yash Sharma, Lubaina Ehsan, S. Asad Ali, Sean R. Moore, Beatrice Amadi, Paul Kelly, Sana Syed, and Donald E. Brown. <br>
-> In International Conference on Pattern Recognition, Springer. **ICPR 2021 (Oral)** <br>
-> [paper](https://arxiv.org/pdf/1909.01963.pdf) | [code](https://github.com/4m4n5/saasn-stain-normalization)
-
-
-> **Cluster-to-Conquer, A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification** <br>
-> Yash Sharma, **Aman Shrivastava**, Lubaina Ehsan, Christopher A. Moskaluk, Sana Syed, and Donald E. Brown. <br>
-> In Medical Imaging with Deep Learning, PMLR. **MIDL 2021** <br>
-> [paper](https://arxiv.org/pdf/2103.10626.pdf) | [code](https://github.com/YashSharma/C2C)
-
-
-> **Deep learning for visual recognition of environmental enteropathy and celiac disease** <br>
-> **Aman Shrivastava**, Karan Kant, Saurav Sengupta, Sung-Jun Kang, Marium Khan, S. Asad Ali, Sean R. Moore et al. <br>
-> In IEEE EMBS International Conference on Biomedical & Health Informatics (BHI). **BHI 2019** <br>
-> [paper](https://arxiv.org/pdf/1908.03272.pdf) 
-
-
-# 📂 Side Projects
-> **Krity** <br>
-> Co-founded an open audiobook platform that allows listeners to find audiobooks in diverse voices, and narrators to give voices to their favorite books. Have produced and published over 40 audiobooks. <br>
-> [website](https://krity.app/)
-
-
-> **Connect 4 AI** <br>
-> Developed a lightweight connect-4 game with a self-written pure-javascript bot using Minimax algorithm and Monte Carlo simulations. <br>
-> [website](https://sahlamba.github.io/connect4/) | [code](https://github.com/sahlamba/connect4)
-
-> **Humorous Image Captioning System** <br>
-> Implemented a self-attentive encoder-decoder framework to generate humorous captions for images indistinguishable from human generated memes. <br>
-> [code](https://github.com/4m4n5/dl_humor_generation/tree/master)
-
-> **Soccer Squad Optimization** <br>
-> Designed a strategic football squad selection algorithm given budget, nationality (and/or club) and playing formation constraints based on self extracted FIFA dataset. Longstanding featured dataset on Kaggle.<br>
-> [code](https://github.com/4m4n5/fifa18-stats-analysis) | [dataset](https://www.kaggle.com/datasets/thec03u5/fifa-18-demo-player-dataset)
+I am a **Masters in Data Science student** at the **University of Virginia**, scheduled to graduate in May 2025. I have a strong background in machine learning, deep learning, data analytics, and AI product development. I previously worked as a **Research Scientist** at **University of Virginia** with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/). My work involved training and fine-tuning models for specific tasks and applying advanced natural language processing (NLP) and computer vision techniques to multimodal medical data. Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Developer**. I also hold a **Master of Technology** and a **Bachelor of Technology** in **Geological Technology** with a minor in **Mathematics** from the **Indian Institute of Technology, Roorkee**. Find my [CV here](https://4m4n5.github.io/assets/CV.pdf). 
 
 
 # 📖 Education
-- **2020 - present:** Computer Science PhD &#124; University of Virginia 
-- **2018 - 2019:** Masters in Data Science &#124; University of Virginia
-- **2013 - 2017:** Bachelors in Technology &#124; Indian Institute of Technology, Roorkee 
+- **2024 - present:** Masters in Data Science &#124; University of Virginia 
+- **2021 - 2022:** Masters in Technology &#124; Indian Institute of Technology, Roorkee
+- **2017 - 2021:** Bachelors in Technology &#124; Indian Institute of Technology, Roorkee 
 
 # 💻 Experience
-- **Research Scientist Intern** at Adobe Research | June - November, 2023 <br>
-  Worked on designing an AI assistant for visual reasoning via bootstrapping pretrained foundation models.
+- **Research Scientist** at University of Virginia | July 2022 - May 2024 <br>
+  - Worked with a multi-disciplinary team of medical professionals and engineers to study gut functions.
+  - Researched and implemented novel Deep Learning models for disease diagnosis and quantification.
+  - Used Machine Learning for pattern recognition in tissue images, clinical data, and transcriptomic data.
 
-- **Research Scientist Intern** at Salesforce Research | June - November, 2022 <br>
-  Worked on conditional generative diffusion models for image synthesis and vision-language alignment.
+- **Software Development Intern** at BNY Mellon | Summer 2021 <br>
+  - Implemented functional and unit testing for internal applications.
+  - Developed a custom XML to CSV Parser Utility.
+  - Fixed application and security vulnerabilities of the internal applications.
 
-- **Research Scientist** at University of Virginia | June 2019 - June 2020 <br>
-  Developed learning frameworks for the understanding and assisted diagnosis of gastrointestinal diseases.
+- **Software Development Intern** at ZestMoney | Summer 2019 <br>
+  - Integrated a Payment Gateway at checkout using SpringBoot & MySQL database.
+  - Implemented a custom user Signup interface using Retrofit (Android) with MVVM architecture.
+  - Developed a Base Adapter to reduce the code redundancy thus maintaining code’s usability.
 
-- **Analyst** at Citibank | June 2018 - June 2019 <br>
-  Built a streamlined visualization platform with data-driven insights for the Chief Country Officer. However, would not recommend.
 
-# 👨‍🏫 Teaching / Talks
-- 2023
-  - **Co-instructor** for Geometry of Data &#124; University of Virginia &#124; [lecture videos](https://www.youtube.com/watch?v=tzu-Gl3N614&list=PL9f1MuX_YDqdNg2gsAMGWDTEr5IuEAJb-)
-  - **Oral Presentation** at MICCAI 2023
-  - **Invited Speaker** for Research Speaker Series &#124; PathAI
-  - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
-- 2022
-  - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
-  - **Teaching Assistant** for Geometry of Data &#124; University of Virginia
-  - **Teaching Assistant** for Machine Learning &#124; University of Virginia
-  - **Python Instructor** for SOAR Scholars Program &#124; University of Virginia
-- 2019
-  - **Python Instructor** for Health Sciences Library &#124; University of Virginia
-  - **Assistant Capstone Advisor** for School of Data Science &#124; University of Virginia
-  - **Invited Speaker** for Applied Machine Learning Conference &#124; Tom Tom Festival 
+# 📂 Projects
+> **Evaluating efficacy of synthetic images generated using diffusion models** <br>
+> Trained diffusion models to generate histology patches conditioned on nuclei locations. Evaluated the use of synthetic patches for improving downstream segmentation and classification tasks. <br>
+> [Code](https://github.com/5anjana/diffusion-downstream)
+
+> **Deep learning based detection and visual understanding of diseases using medical imaging data** <br>
+> Performed patch-based invasive ductal carcinoma (breast cancer) and gastrointestinal disease detection. Implemented convolutional neural networks (CNN) for classifying whole slide images and biomarker data. Implemented Gaussian clustering methods to identify recurring visual patterns in diseased biopsies. <br>
+> [Code](https://github.com/5anjana/ml-breast-cancer-detection)
+
+> **Humorous Image Captioning System** <br>
+> Implemented a self-attentive encoder-decoder framework to generate humorous captions for images indistinguishable from human generated memes. <br>
+
+> **Correlating disease gene signature with imaging data** <br>
+> Designed a deep learning framework to identify image features associated with functional gene clusters. Identified important gene signatures and their correlation with visual patterns in biopsies. <br>
+> [Code](https://github.com/SyedLab-GI/ee-omics)
+
+> **Deep learning based semantic segmentation on brain MR images** <br>
+>  Performed tumor segmentation using a U-Net architecture on MRIs. Used PyTorch for training model on MRIs from The Cancer Genome Atlas (TCGA) lower-grade glioma collection. <br>
+> [Code](https://github.com/5anjana/brain-tumor-mri-segmentation)
+
+> **Petrographic characterisation of a chondrite sample** <br>
+> Investigated the mineralogy and major element geochemistry of mineral phases present in the chondrite section. Performed Electron Probe Micro Analysis to obtain backscattered electron images of the sample. <br>
+
+> **Buy and sell application** <br>
+> Developed an intranet application for buying, selling and requesting goods among campus residents. Features include categorization of goods, subscribing, filtering, and searching based on users input. <br>
+
+# 📝 Publications 
+
+> **Machine-learning-based integrative–‘omics analyses reveal immunologic and metabolic dysregulation in environmental enteric dysfunction** <br>
+> F. Zulqarnain, X. Zhao, K. Setchell, Y. Sharna, P. Fernandes, **S. Srivastava**, A. Shrivastava, L.Ehsan, V. Jain, S. Raghavan, C. Moskaluk, Y. Haberman, L.A. Denson, K. Mehta, N.T. Iqbal, N. Rahman, K. Sadiq, Z. Ahmad, R. Idress, J. Iqbal, S. Ahmed, A. Hotwani, F. Umrani, B. Amadi, P. Kelly, D.E. Brown, S.R. Moore, S.A. Ali, S. Syed. <br>
+> iScience 2024. <br>
+> [Paper](https://www.cell.com/iscience/fulltext/S2589-0042(24)01238-0)
+
+
+> **Quantitative Morphometry and Machine Learning Model to Explore Duodenal and Rectal Mucosal Tissue of Children with Environmental Enteric Dysfunction** <br>
+> M. Khan, Z. Jamil, L. Ehsan, F. Zulqarnain, **S. Srivastava**, S. Siddiqui, P. Fernandes, M. Raghib, S. Sengupta, Z. Mujahid, Z. Ahmed, R. Idrees, S. Ahmed, F. Umrani, N. Iqbal, C. Moskaluk, S. Raghavan, L. Cheng, S. Moore, S.A. Ali, J. Iqbal, S. Syed. <br>
+> The American Journal of Tropical Medicine and Hygiene 2023. <br>
+> [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10077000)

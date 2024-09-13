@@ -6,17 +6,14 @@ main:
   # - title: "News"
   #   url: "/#news"
 
-  - title: "Selected Publications"
-    url: "/#-selected-publications"
-
-  - title: "Side Projects"
-    url: "/#-side-projects"
-
   - title: "Education"
     url: "/#-education"
 
   - title: "Experience"
     url: "/#-experience"
 
-  - title: "Teaching/Talks"
-    url: "/#-teaching-/-talks"
+  - title: "Projects"
+    url: "/#-projects"
+
+  - title: "Publications"
+    url: "/#-publications"
