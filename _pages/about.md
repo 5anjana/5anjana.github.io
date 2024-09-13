@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **Masters in Data Science student** at the **University of Virginia**, scheduled to graduate in May 2025. I have a strong background in machine learning, deep learning, data analytics, and AI product development. I previously worked as a **Research Scientist** at **University of Virginia** with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/). My work involved training and fine-tuning models for specific tasks and applying advanced natural language processing (NLP) and computer vision techniques to multimodal medical data. Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Developer**. I also hold a **Master of Technology** and a **Bachelor of Technology** in **Geological Technology** with a minor in **Mathematics** from the **Indian Institute of Technology, Roorkee**. Find my [CV here](https://4m4n5.github.io/assets/CV.pdf). 
+I am a **Masters in Data Science student** at the **University of Virginia**, scheduled to graduate in May 2025. I have a strong background in machine learning, deep learning, data analytics, and AI product development. I previously worked as a **Research Scientist** at **University of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/). My work involved training and fine-tuning models for specific tasks and applying advanced natural language processing (NLP) and computer vision techniques to multimodal medical data. Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Developer**. I also hold a **Master of Technology** and a **Bachelor of Technology** in **Geological Technology** with a minor in **Mathematics** from the **Indian Institute of Technology, Roorkee**. Find my [CV here](https://5anjana.github.io/assets/CV.pdf). 
 
 
 # 📖 Education
@@ -26,17 +26,17 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
 - **2017 - 2021:** Bachelors in Technology &#124; Indian Institute of Technology, Roorkee 
 
 # 💻 Experience
-- **Research Scientist** at University of Virginia | July 2022 - May 2024 <br>
+- **Research Scientist** at University of Virginia &#124; July 2022 - May 2024 <br>
   - Worked with a multi-disciplinary team of medical professionals and engineers to study gut functions.
   - Researched and implemented novel Deep Learning models for disease diagnosis and quantification.
   - Used Machine Learning for pattern recognition in tissue images, clinical data, and transcriptomic data.
 
-- **Software Development Intern** at BNY Mellon | Summer 2021 <br>
+- **Software Development Intern** at BNY Mellon &#124; Summer 2021 <br>
   - Implemented functional and unit testing for internal applications.
   - Developed a custom XML to CSV Parser Utility.
   - Fixed application and security vulnerabilities of the internal applications.
 
-- **Software Development Intern** at ZestMoney | Summer 2019 <br>
+- **Software Development Intern** at ZestMoney &#124; Summer 2019 <br>
   - Integrated a Payment Gateway at checkout using SpringBoot & MySQL database.
   - Implemented a custom user Signup interface using Retrofit (Android) with MVVM architecture.
   - Developed a Base Adapter to reduce the code redundancy thus maintaining code’s usability.
