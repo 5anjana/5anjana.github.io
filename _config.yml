@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sanjana Srivastava"
-  avatar           : "images/profile.JPG"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "MS in Data Science Student"
   location         : "Charlottesville, VA, USA"
   employer         :
