@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **Masters in Data Science student** at the **University of Virginia**, scheduled to graduate in May 2025. I have a strong background in machine learning, deep learning, data analytics, and AI product development. I previously worked as a **Research Scientist** at **University of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/). My work involved training and fine-tuning models for specific tasks and applying advanced natural language processing (NLP) and computer vision techniques to multimodal medical data. Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Developer**. I also hold a **Master of Technology** and a **Bachelor of Technology** in **Geological Technology** with a minor in **Mathematics** from the **Indian Institute of Technology, Roorkee**. Find my [CV here](https://5anjana.github.io/assets/CV.pdf). 
+I am a **Masters in Data Science student** at the **University of Virginia**, scheduled to graduate in May 2025. I have a strong background in machine learning, deep learning, data analytics, and AI product development. I previously worked as a **Research Scientist** at **University of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/). My work involved training and fine-tuning models for specific tasks and applying advanced natural language processing (NLP) and computer vision techniques to multimodal medical data. Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Developer**. I also hold a **Master of Technology** and a **Bachelor of Technology** in **Geological Technology** with a minor in **Mathematics** from the **Indian Institute of Technology, Roorkee**. Find my [CV here](https://5anjana.github.io/assets/CV_v2.pdf). 
 
 
 # 📖 Education
@@ -39,10 +39,13 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
 - **Software Development Intern** at ZestMoney &#124; Summer 2019 <br>
   - Integrated a Payment Gateway at checkout using SpringBoot & MySQL database.
   - Implemented a custom user Signup interface using Retrofit (Android) with MVVM architecture.
-  - Developed a Base Adapter to reduce the code redundancy thus maintaining code’s usability.
+  - Developed a Base Adapter to reduce the code redundancy & maintaining code’s usability accross the application.
 
 
 # 📂 Projects
+> **Comparative study of large language model evaluation frameworks with a focus on NLP vs LLM-as-a-judge metric** <br>
+> Analyzing large language model evaluation frameworks like AWS Bedrock, GCP Vertex, and RAGAS to assess LLM-generated content. Comparing traditional NLP metrics (e.g., VADER) to new LLM-as-a-judge metrics for evaluating LLM workflows. Investigating six dimensions of LLM assessment, including bias, hallucination, and toxicity detection. <br>
+
 > **Evaluating efficacy of synthetic images generated using diffusion models** <br>
 > Trained diffusion models to generate histology patches conditioned on nuclei locations. Evaluated the use of synthetic patches for improving downstream segmentation and classification tasks. <br>
 > [Code](https://github.com/5anjana/diffusion-downstream)
@@ -65,8 +68,22 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
 > **Petrographic characterisation of a chondrite sample** <br>
 > Investigated the mineralogy and major element geochemistry of mineral phases present in the chondrite section. Performed Electron Probe Micro Analysis to obtain backscattered electron images of the sample. <br>
 
-> **Buy and sell application** <br>
+> **Buy and Sell application** <br>
 > Developed an intranet application for buying, selling and requesting goods among campus residents. Features include categorization of goods, subscribing, filtering, and searching based on users input. <br>
+
+> **Alzheimer's disease analyses using patient data** <br>
+> Explored factors associated with Alzheimer's, developed a predictive model, and conducted statistical analyses using regression models on patient chart data. <br>
+> [Code] (https://github.com/5anjana/alzheimer-linear-regression)
+
+> **Omniport Registration web application** <br>
+> Developed an Intranet application for students, professors, and staff for Channel i registration. Channel i is the portal with intranet applications of IIT Roorkee. <br>
+
+> **People Search** <br>
+> Developed an Intranet application to manage contact information of students and faculty of IIT Roorkee. Features consists of recursive searching and content filtering based on the users input. Implemented Student Homepages, a UI template to view each student's bio in a standard format. <br>
+
+> **Chicken Litte Run** <br>
+> A fun run and dodge game developed on HTML Canvas where the Chicken Little must run and dodge the falling sky. <br>
+> [Code] (https://github.com/5anjana/Chicken-Little-Run)
 
 # 📝 Publications 
 
