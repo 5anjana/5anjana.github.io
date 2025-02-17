@@ -21,7 +21,7 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
 
 
 # 📖 Education
-- **2024 - present:** Masters in Data Science &#124; University of Virginia 
+- **2024 - May 2025:** Masters in Data Science &#124; University of Virginia 
 - **2021 - 2022:** Masters in Technology &#124; Indian Institute of Technology, Roorkee
 - **2017 - 2021:** Bachelors in Technology &#124; Indian Institute of Technology, Roorkee 
 
@@ -34,12 +34,12 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
 - **Software Development Intern** at BNY Mellon &#124; Summer 2021 <br>
   - Implemented functional and unit testing for internal applications.
   - Developed a custom XML to CSV Parser Utility.
-  - Fixed application and security vulnerabilities of the internal applications.
+  - Conducted A/B testing to assess performance optimizations in internal applications.
 
 - **Software Development Intern** at ZestMoney &#124; Summer 2019 <br>
   - Integrated a Payment Gateway at checkout using SpringBoot & MySQL database.
   - Implemented a custom user Signup interface using Retrofit (Android) with MVVM architecture.
-  - Developed a Base Adapter to reduce the code redundancy & maintaining code’s usability accross the application.
+  - Worked on code usability in a high-paced fintech industry startup environment.
 
 
 # 📂 Projects
