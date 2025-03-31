@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p> I am a **Masters in Data Science student** at the **University of Virginia**, scheduled to graduate in May 2025. I have a strong background in deep learning, computer vision, multimodal learning, product analytics, healthcare research, large language models, and resposible AI product development. </p>
-<p> I previously worked as a **Research Scientist** at **University of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/). My work involved using data science techniques and training machine learning models for disease classification and pattern recognition in multimodal medical data. </p>
-<p> I am currently working on a capstone project with **Deloitte** as a **Data Scientist**, focusing on evaluating large language models assessment methodologies, including NLP-based approaches and LLM-as-a-judge methods, to assess LLM-generated content across multiple dimensions. </p>
-<p> Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Developer**. I also hold a **Master of Technology** and a **Bachelor of Technology** in **Geological Technology** and **Mathematics** from the **Indian Institute of Technology, Roorkee**. Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf). </p> 
+I am a **Masters in Data Science student** at the **University of Virginia**, scheduled to graduate in May 2025. I have a strong background in deep learning, computer vision, multimodal learning, product analytics, healthcare research, large language models, and resposible AI product development. <br><br>
+I previously worked as a **Research Scientist** at **University of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/). My work involved using data science techniques and training machine learning models for disease classification and pattern recognition in multimodal medical data. <br><br>
+I am currently working on a capstone project with **Deloitte** as a **Data Scientist**, focusing on evaluating large language models assessment methodologies, including NLP-based approaches and LLM-as-a-judge methods, to assess LLM-generated content across multiple dimensions. <br><br>
+Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Developer**. I also hold a **Master of Technology** and a **Bachelor of Technology** in **Geological Technology** and **Mathematics** from the **Indian Institute of Technology, Roorkee**. Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf). 
 
 
 # 📖 Education
