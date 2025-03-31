@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **Masters in Data Science student** at the **University of Virginia**, scheduled to graduate in May 2025. I have a strong background in deep learning, computer vision, multimodal learning, product analytics, healthcare research, large language models, and resposible AI product development. I previously worked as a **Research Scientist** at **University of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/). My work involved training and fine-tuning models for specific tasks and applying advanced natural language processing (NLP) and computer vision techniques to multimodal medical data. Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Developer**. I also hold a **Master of Technology** and a **Bachelor of Technology** in **Geological Technology** with a minor in **Mathematics** from the **Indian Institute of Technology, Roorkee**. Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf). 
+I am a **Masters in Data Science student** at the **University of Virginia**, scheduled to graduate in May 2025. I have a strong background in deep learning, computer vision, multimodal learning, product analytics, healthcare research, large language models, and resposible AI product development. 
+I previously worked as a **Research Scientist** at **University of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/). My work involved using data science techniques and training machine learning models for disease classification and pattern recognition in multimodal medical data. 
+I am currently working on a capstone project with **Deloitte** as a **Data Scientist**, focusing on evaluating large language models assessment methodologies, including NLP-based approaches and LLM-as-a-judge methods, to assess LLM-generated content across multiple dimensions.
+Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Developer**. I also hold a **Master of Technology** and a **Bachelor of Technology** in **Geological Technology** and **Mathematics** from the **Indian Institute of Technology, Roorkee**. Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf). 
 
 
 # 📖 Education
@@ -26,10 +29,15 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
 - **2017 - 2021:** Bachelors in Technology &#124; Indian Institute of Technology, Roorkee 
 
 # 💻 Experience
+- **Data Scientist** at Deloitte (Capstone Project) &#124; September 2024 - Ongoing <br>
+  - Comparative study of large language model evaluation frameworks with a focus on NLP vs LLM-as-a-judge metric.
+  - Analyzing large language model evaluation frameworks like AWS Bedrock, GCP Vertex, and RAGAS to assess LLM-generated content.
+  - Investigating six dimensions of LLM assessment, including bias, hallucination, and toxicity detection.
+
 - **Research Scientist** at University of Virginia &#124; July 2022 - May 2024 <br>
   - Worked with a multi-disciplinary team of medical professionals and engineers to study gut functions.
-  - Researched and implemented novel Deep Learning models for disease diagnosis and quantification.
-  - Used Machine Learning for pattern recognition in tissue images, clinical data, and transcriptomic data.
+  - Implemented novel Deep Learning models for disease diagnosis and quantification.
+  - Leveraged Machine Learning for pattern recognition in tissue images, clinical data, and transcriptomic data.
 
 - **Software Development Intern** at BNY Mellon &#124; Summer 2021 <br>
   - Implemented functional and unit testing for internal applications.
@@ -37,17 +45,14 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
   - Conducted A/B testing to assess performance optimizations in internal applications.
 
 - **Software Development Intern** at ZestMoney &#124; Summer 2019 <br>
-  - Integrated a Payment Gateway at checkout using SpringBoot & MySQL database.
-  - Implemented a custom user Signup interface using Retrofit (Android) with MVVM architecture.
-  - Worked on code usability in a high-paced fintech industry startup environment.
+  - Implemented a Payment Gateway at checkout using SpringBoot & MySQL database.
+  - Developed a custom user Signup interface using Retrofit (Android) with MVVM architecture.
+  - Improved code usability in a high-paced fintech industry startup environment.
 
 
 # 📂 Projects
-> **Comparative study of large language model evaluation frameworks with a focus on NLP vs LLM-as-a-judge metric** <br>
-> Analyzing large language model evaluation frameworks like AWS Bedrock, GCP Vertex, and RAGAS to assess LLM-generated content. Comparing traditional NLP metrics (e.g., VADER) to new LLM-as-a-judge metrics for evaluating LLM workflows. Investigating six dimensions of LLM assessment, including bias, hallucination, and toxicity detection. <br>
-
 > **Evaluating efficacy of synthetic images generated using diffusion models** <br>
-> Trained diffusion models to generate histology patches conditioned on nuclei locations. Evaluated the use of synthetic patches for improving downstream segmentation and classification tasks. <br>
+> Developed diffusion models to generate histology patches conditioned on nuclei locations. Validated the use of synthetic patches for improving downstream segmentation and classification tasks. <br>
 > [Code](https://github.com/5anjana/diffusion-downstream)
 
 > **Deep learning based detection and visual understanding of diseases using medical imaging data** <br>
@@ -68,18 +73,21 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
 > **Petrographic characterisation of a chondrite sample** <br>
 > Investigated the mineralogy and major element geochemistry of mineral phases present in the chondrite section. Performed Electron Probe Micro Analysis to obtain backscattered electron images of the sample. <br>
 
-> **Buy and Sell application** <br>
-> Developed an intranet application for buying, selling and requesting goods among campus residents. Features include categorization of goods, subscribing, filtering, and searching based on users input. <br>
-
 > **Alzheimer's disease analyses using patient data** <br>
 > Explored factors associated with Alzheimer's, developed a predictive model, and conducted statistical analyses using regression models on patient chart data. <br>
 > [Code] (https://github.com/5anjana/alzheimer-linear-regression)
 
 > **Omniport Registration web application** <br>
 > Developed an Intranet application for students, professors, and staff for Channel i registration. Channel i is the portal with intranet applications of IIT Roorkee. <br>
+> [Website](https://channeli.in/maintainer_site/)
+
+> **Buy and Sell application** <br>
+> Developed an intranet application for buying, selling and requesting goods among campus residents. Features include categorization of goods, subscribing, filtering, and searching based on users input. <br>
+> [Code] (https://github.com/IMGIITRoorkee/omniport-app-buy-and-sell)
 
 > **People Search** <br>
 > Developed an Intranet application to manage contact information of students and faculty of IIT Roorkee. Features consists of recursive searching and content filtering based on the users input. Implemented Student Homepages, a UI template to view each student's bio in a standard format. <br>
+> [Code](https://github.com/IMGIITRoorkee/omniport-frontend-people_search)
 
 > **Chicken Litte Run** <br>
 > A fun run and dodge game developed on HTML Canvas where the Chicken Little must run and dodge the falling sky. <br>
