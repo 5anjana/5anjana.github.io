@@ -32,7 +32,7 @@ Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf).
   - Analyzing large language model evaluation frameworks like AWS Bedrock, GCP Vertex, and RAGAS to assess LLM-generated content.
   - Investigating six dimensions of LLM assessment, including bias, hallucination, and toxicity detection.
 
-- **Research Scientist** at University of Virginia &#124; July 2022 - May 2024 <br>
+- **Data Scientist** at University of Virginia &#124; July 2022 - May 2024 <br>
   - Worked with a multi-disciplinary team of medical professionals and engineers to study gut functions.
   - Implemented novel Deep Learning models for disease diagnosis and quantification.
   - Leveraged Machine Learning for pattern recognition in tissue images, clinical data, and transcriptomic data.
