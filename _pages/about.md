@@ -32,17 +32,17 @@ Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf).
   - Analyzing large language model evaluation frameworks like AWS Bedrock, GCP Vertex, and RAGAS to assess LLM-generated content.
   - Investigating six dimensions of LLM assessment, including bias, hallucination, and toxicity detection.
 
-- **Machine Learning Researcher/Data Scientist** at University of Virginia &#124; July 2022 - May 2024 <br>
+- **Machine Learning Researcher** at University of Virginia &#124; July 2022 - May 2024 <br>
   - Worked with a multi-disciplinary team of medical professionals and engineers to study gut functions.
   - Implemented novel Deep Learning models for disease diagnosis and quantification.
   - Leveraged Machine Learning for pattern recognition in tissue images, clinical data, and transcriptomic data.
 
-- **Software Development Intern** at BNY Mellon &#124; Summer 2021 <br>
+- **Software Engineering Intern** at BNY Mellon &#124; Summer 2021 <br>
   - Implemented functional and unit testing for internal applications.
   - Developed a custom XML to CSV Parser Utility.
   - Conducted A/B testing to assess performance optimizations in internal applications.
 
-- **Software Development Intern** at ZestMoney &#124; Summer 2019 <br>
+- **Software Engineering Intern** at ZestMoney &#124; Summer 2019 <br>
   - Implemented a Payment Gateway at checkout using SpringBoot & MySQL database.
   - Developed a custom user Signup interface using Retrofit (Android) with MVVM architecture.
   - Improved code usability in a high-paced fintech industry startup environment.
