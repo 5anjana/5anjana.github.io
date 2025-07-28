@@ -22,7 +22,7 @@ Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf).
 
 
 # 📖 Education
-- **2024 - May 2025:** Masters in Data Science &#124; University of Virginia 
+- **2024 - 2025:** Masters in Data Science &#124; University of Virginia 
 - **2021 - 2022:** Masters in Technology &#124; Indian Institute of Technology, Roorkee
 - **2017 - 2021:** Bachelors in Technology &#124; Indian Institute of Technology, Roorkee 
 
@@ -57,8 +57,13 @@ Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf).
 > Performed patch-based invasive ductal carcinoma (breast cancer) and gastrointestinal disease detection. Implemented convolutional neural networks (CNN) for classifying whole slide images and biomarker data. Implemented Gaussian clustering methods to identify recurring visual patterns in diseased biopsies. <br>
 > [Code](https://github.com/5anjana/ml-breast-cancer-detection)
 
+> **StyleSwap: Text-driven latent diffusion model for localized fashion image editing** <br>
+> Designed a localized fashion image editing pipeline using text-driven latent diffusion and semantic segmentation. <br>
+> [Code](https://github.com/5anjana/StyleSwap)
+
 > **Humorous Image Captioning System** <br>
 > Implemented a self-attentive encoder-decoder framework to generate humorous captions for images indistinguishable from human generated memes. <br>
+> [Code](https://github.com/5anjana/humorous-caption-generation)
 
 > **Correlating disease gene signature with imaging data** <br>
 > Designed a deep learning framework to identify image features associated with functional gene clusters. Identified important gene signatures and their correlation with visual patterns in biopsies. <br>
@@ -73,7 +78,7 @@ Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf).
 
 > **Alzheimer's disease analyses using patient data** <br>
 > Explored factors associated with Alzheimer's, developed a predictive model, and conducted statistical analyses using regression models on patient chart data. <br>
-> [Code] (https://github.com/5anjana/alzheimer-linear-regression)
+> [Code](https://github.com/5anjana/alzheimer-linear-regression)
 
 > **Omniport Registration web application** <br>
 > Developed an Intranet application for students, professors, and staff for Channel i registration. Channel i is the portal with intranet applications of IIT Roorkee. <br>
@@ -81,7 +86,7 @@ Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf).
 
 > **Buy and Sell application** <br>
 > Developed an intranet application for buying, selling and requesting goods among campus residents. Features include categorization of goods, subscribing, filtering, and searching based on users input. <br>
-> [Code] (https://github.com/IMGIITRoorkee/omniport-app-buy-and-sell)
+> [Code](https://github.com/IMGIITRoorkee/omniport-app-buy-and-sell)
 
 > **People Search** <br>
 > Developed an Intranet application to manage contact information of students and faculty of IIT Roorkee. Features consists of recursive searching and content filtering based on the users input. Implemented Student Homepages, a UI template to view each student's bio in a standard format. <br>
@@ -89,9 +94,14 @@ Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf).
 
 > **Chicken Litte Run** <br>
 > A fun run and dodge game developed on HTML Canvas where the Chicken Little must run and dodge the falling sky. <br>
-> [Code] (https://github.com/5anjana/Chicken-Little-Run)
+> [Code](https://github.com/5anjana/Chicken-Little-Run)
 
 # 📝 Publications 
+
+> **Comparative Study of Large Language Model Evaluation Frameworks with a Focus on NLP vs LLM-As-A-Judge Metrics** <br>
+> **S. Srivastava**, A. Alabdulwahab, C. Japic, C. Le, D. Dubey, D. Trivedi, J. Hope, P. Stone, A. Tashman, A. Zhang. <br>
+> Systems and Information Engineering Design Symposium (SIEDS) 2025
+> [Paper](https://ieeexplore.ieee.org/document/11021089)
 
 > **Machine-learning-based integrative–‘omics analyses reveal immunologic and metabolic dysregulation in environmental enteric dysfunction** <br>
 > F. Zulqarnain, X. Zhao, K. Setchell, Y. Sharna, P. Fernandes, **S. Srivastava**, A. Shrivastava, L.Ehsan, V. Jain, S. Raghavan, C. Moskaluk, Y. Haberman, L.A. Denson, K. Mehta, N.T. Iqbal, N. Rahman, K. Sadiq, Z. Ahmad, R. Idress, J. Iqbal, S. Ahmed, A. Hotwani, F. Umrani, B. Amadi, P. Kelly, D.E. Brown, S.R. Moore, S.A. Ali, S. Syed. <br>
@@ -101,5 +111,5 @@ Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf).
 
 > **Quantitative Morphometry and Machine Learning Model to Explore Duodenal and Rectal Mucosal Tissue of Children with Environmental Enteric Dysfunction** <br>
 > M. Khan, Z. Jamil, L. Ehsan, F. Zulqarnain, **S. Srivastava**, S. Siddiqui, P. Fernandes, M. Raghib, S. Sengupta, Z. Mujahid, Z. Ahmed, R. Idrees, S. Ahmed, F. Umrani, N. Iqbal, C. Moskaluk, S. Raghavan, L. Cheng, S. Moore, S.A. Ali, J. Iqbal, S. Syed. <br>
-> The American Journal of Tropical Medicine and Hygiene 2023. <br>
+> The American Journal of Tropical Medicine and Hygiene (ASTMH) 2023. <br>
 > [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10077000)
