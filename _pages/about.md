@@ -100,7 +100,7 @@ Find my [CV here](https://5anjana.github.io/assets/CV_Sanjana_Srivastava.pdf).
 
 > **Comparative Study of Large Language Model Evaluation Frameworks with a Focus on NLP vs LLM-As-A-Judge Metrics** <br>
 > **S. Srivastava**, A. Alabdulwahab, C. Japic, C. Le, D. Dubey, D. Trivedi, J. Hope, P. Stone, A. Tashman, A. Zhang. <br>
-> Systems and Information Engineering Design Symposium (SIEDS) 2025
+> Systems and Information Engineering Design Symposium (SIEDS) 2025. <br>
 > [Paper](https://ieeexplore.ieee.org/document/11021089)
 
 > **Machine-learning-based integrative–‘omics analyses reveal immunologic and metabolic dysregulation in environmental enteric dysfunction** <br>
