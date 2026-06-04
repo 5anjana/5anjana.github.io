@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **Masters in Data Science student** at the **University of Virginia**, scheduled to graduate in May 2025. I have a strong background in deep learning, computer vision, multimodal learning, product analytics, healthcare research, large language models, and resposible AI product development. I previously worked as a **Research Scientist** at **University of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/). My work involved using data science techniques and training machine learning models for disease classification and pattern recognition in multimodal medical data. I am currently working on a capstone project with **Deloitte** as a **Data Scientist**, focusing on evaluating large language models assessment methodologies, including NLP-based approaches and LLM-as-a-judge methods, to assess LLM-generated content across multiple dimensions. Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Developer**. I also hold a **Master of Technology** and a **Bachelor of Technology** in **Geological Technology** and **Mathematics** from the **Indian Institute of Technology, Roorkee**. <br><br>
+I am a **Machine Learning Engineer** at **Trase ai**, specializing in deep learning, computer vision, multimodal learning, and responsible AI product development. Academically, I hold a **Master’s in Data Science** from the **University of Virginia**, and an integrated **Master and Bachelor of Technology** in **Geological Technology** and **Mathematics** from the **Indian Institute of Technology Roorkee**. <br>
+
+Previously, I collaborated with **Deloitte** to build LLM evaluation pipelines and served as a **Research Scientist** at **Univesity of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/), where I trained ML models for disease classification and pattern recognition in multimodal medical data. Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Engineer**. <br><b>
 
 
 # 📖 Education
@@ -26,10 +28,8 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
 - **2017 - 2021:** Bachelors in Technology &#124; Indian Institute of Technology, Roorkee 
 
 # 💻 Experience
-- **Data Scientist** at Deloitte (Capstone Project) &#124; September 2024 - Ongoing <br>
-  - Comparative study of large language model evaluation frameworks with a focus on NLP vs LLM-as-a-judge metric.
-  - Analyzing large language model evaluation frameworks like AWS Bedrock, GCP Vertex, and RAGAS to assess LLM-generated content.
-  - Investigating six dimensions of LLM assessment, including bias, hallucination, and toxicity detection.
+- **Machine Learning Engineer** at Trase ai &#124; August 2025 - Ongoing <br>
+  - Architecting and deploying machine learning solutions to automate complex data workflows and processing pipelines across the oil & gas and healthcare sectors.
 
 - **Machine Learning Researcher** at University of Virginia &#124; July 2022 - May 2024 <br>
   - Worked with a multi-disciplinary team of medical professionals and engineers to study gut functions.
@@ -79,18 +79,6 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
 > Explored factors associated with Alzheimer's, developed a predictive model, and conducted statistical analyses using regression models on patient chart data. <br>
 > [Code](https://github.com/5anjana/alzheimer-linear-regression)
 
-> **Omniport Registration web application** <br>
-> Developed an Intranet application for students, professors, and staff for Channel i registration. Channel i is the portal with intranet applications of IIT Roorkee. <br>
-> [Website](https://channeli.in/maintainer_site/)
-
-> **Buy and Sell application** <br>
-> Developed an intranet application for buying, selling and requesting goods among campus residents. Features include categorization of goods, subscribing, filtering, and searching based on users input. <br>
-> [Code](https://github.com/IMGIITRoorkee/omniport-app-buy-and-sell)
-
-> **People Search** <br>
-> Developed an Intranet application to manage contact information of students and faculty of IIT Roorkee. Features consists of recursive searching and content filtering based on the users input. Implemented Student Homepages, a UI template to view each student's bio in a standard format. <br>
-> [Code](https://github.com/IMGIITRoorkee/omniport-frontend-people_search)
-
 > **Chicken Litte Run** <br>
 > A fun run and dodge game developed on HTML Canvas where the Chicken Little must run and dodge the falling sky. <br>
 > [Code](https://github.com/5anjana/Chicken-Little-Run)
@@ -106,7 +94,6 @@ I am a **Masters in Data Science student** at the **University of Virginia**, sc
 > F. Zulqarnain, X. Zhao, K. Setchell, Y. Sharna, P. Fernandes, **S. Srivastava**, A. Shrivastava, L.Ehsan, V. Jain, S. Raghavan, C. Moskaluk, Y. Haberman, L.A. Denson, K. Mehta, N.T. Iqbal, N. Rahman, K. Sadiq, Z. Ahmad, R. Idress, J. Iqbal, S. Ahmed, A. Hotwani, F. Umrani, B. Amadi, P. Kelly, D.E. Brown, S.R. Moore, S.A. Ali, S. Syed. <br>
 > iScience 2024. <br>
 > [Paper](https://www.cell.com/iscience/fulltext/S2589-0042(24)01238-0)
-
 
 > **Quantitative Morphometry and Machine Learning Model to Explore Duodenal and Rectal Mucosal Tissue of Children with Environmental Enteric Dysfunction** <br>
 > M. Khan, Z. Jamil, L. Ehsan, F. Zulqarnain, **S. Srivastava**, S. Siddiqui, P. Fernandes, M. Raghib, S. Sengupta, Z. Mujahid, Z. Ahmed, R. Idrees, S. Ahmed, F. Umrani, N. Iqbal, C. Moskaluk, S. Raghavan, L. Cheng, S. Moore, S.A. Ali, J. Iqbal, S. Syed. <br>
