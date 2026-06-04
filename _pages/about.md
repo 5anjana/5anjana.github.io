@@ -19,7 +19,7 @@ redirect_from:
 
 I am a **Machine Learning Engineer** at **Trase ai**, specializing in deep learning, computer vision, multimodal learning, and responsible AI product development. Academically, I hold a **Master’s in Data Science** from the **University of Virginia**, and an integrated **Master and Bachelor of Technology** in **Geological Technology** and **Mathematics** from the **Indian Institute of Technology Roorkee**. <br>
 
-Previously, I collaborated with **Deloitte** to build LLM evaluation pipelines and served as a **Research Scientist** at **Univesity of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://research.med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/), where I trained ML models for disease classification and pattern recognition in multimodal medical data. Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Engineer**. <br><b>
+Previously, I collaborated with **Deloitte** to build LLM evaluation pipelines and served as a **Research Scientist** at **Univesity of Virginia** with [Dr. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) and [Dr. Sana Syed](https://med.virginia.edu/chrc/key-investigators/sana-syed-md-ms/), where I trained ML models for disease classification and pattern recognition in multimodal medical data. Previously I have interned at **BNY Mellon** and **ZestMoney** as a **Software Engineer**. <br><b>
 
 
 # 📖 Education

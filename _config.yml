@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sanjana Srivastava"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "MS in Data Science Student"
-  location         : "Bellevue, WA, USA"
+  bio              : "ML Engineer at Trase ai"
+  location         : "Seattle, WA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xmlZidgAAAAJ"
@@ -40,7 +40,7 @@ author:
   github           : "5anjana"
   google_plus      :
   keybase          :
-  instagram        : "thecherrybgirl"
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sanjana11147"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  x                :
+  x                : "5anjana5"
   vine             :
   weibo            :
   xing             :
